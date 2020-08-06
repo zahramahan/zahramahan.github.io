@@ -25,4 +25,4 @@ WordPress
 
 ## Other Accounts
 
-Quera:https://quera.ir/profile/zahramahan2079 
+Quera: https://quera.ir/profile/zahramahan2079
