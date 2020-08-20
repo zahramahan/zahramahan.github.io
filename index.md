@@ -16,8 +16,11 @@ Hi ,I am Zahra Mahan, I learn programming and I love it. I am studying computer 
 ## Education
 
 Now           Fifth semester of Computer Engineering, Payame Noor University
+
 2018          Finished Senior high school 
+
 2014          Finished Junior high school
+
 2011          Finished Primary school
 
 ## Skills
