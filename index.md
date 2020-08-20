@@ -80,15 +80,4 @@ Quera: https://quera.ir/profile/zahramahan2079
  ## اکانت های دیگر 
                                 
                                https://quera.ir/profile/zahramahan2079 :  کوئرا
- OCTYPE html>
-<html>
-  
-   <head>
-       <title>Netshahr</title>
-   </head>
-  
-   <body>
-   <a href="C:\Users\win 10\Desktop\AXX/ZM_CV_CheckList_AR_3983 (1)"><p>Show PDF</p></a>
-   </body>
-</html>
- 
+
