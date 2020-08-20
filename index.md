@@ -1,6 +1,9 @@
 ## Welcome to  My GitHub Pages
+
 <img src="C:\Users\win 10\Desktop\AXX">
+
 ## About Me
+
 
 Name: Zahra Mahan
 
@@ -75,7 +78,8 @@ Quera: https://quera.ir/profile/zahramahan2079
                                                         زبان انگلیسی (متوسط به بالا)
  
  ## اکانت های دیگر 
-                                     https://quera.ir/profile/zahramahan2079 :کوئرا 
+                                
+                               https://quera.ir/profile/zahramahan2079 :  کوئرا
  OCTYPE html>
 <html>
   
